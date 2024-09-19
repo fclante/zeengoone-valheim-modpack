@@ -1,0 +1,28 @@
+{
+  "name": "Undorn_Official_Modpack",
+  "version_number": "1.5.0",
+  "website_url": "https://discord.gg/zRDF3xew",
+  "description": "Official modpack for the Undorn Valheim Community",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2202",
+    "Azumatt-AzuAntiCheat-4.3.7",
+    "coemt-ProtectYourSeed-0.0.5",
+    "ValheimModding-Jotunn-2.20.1",
+    "ValheimModding-HookGenPatcher-0.0.4",
+    "Smoothbrain-ServerCharacters-1.4.12",
+    "Nextek-SpeedyPaths-1.0.8",
+    "Smoothbrain-ShutUp-1.0.2",
+    "Smoothbrain-TombstoneLock-1.0.7",
+    "JereKuusela-Item_Stand_All_Items-1.21.0",
+    "Azumatt-FastLink-1.4.2",
+    "Azumatt-Where_You_At-1.0.10",
+    "Azumatt-WardIsLove-3.5.8",
+    "Smoothbrain-DarwinAwards-1.0.6",
+    "RustyMods-Almanac-3.2.9",
+    "Smoothbrain-Groups-1.2.8",
+    "Advize-PlantEverything-1.18.0",
+    "MSchmoecker-MultiUserChest-0.5.10",
+    "Pineapple-MoreGates-1.0.11",
+    "VentureValheim-Venture_Location_Reset-0.9.0"
+  ]
+}
