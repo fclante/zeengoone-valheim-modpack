@@ -32,3 +32,11 @@ All notable changes to this project will be documented in this file.
 - Pineapple-MoreGates-1.0.11
 - VentureValheim-Venture_Location_Reset-0.9.0
 ---
+
+## [1.0.1] - 2024-09-20
+
+## UPDATE
+
+- VentureValheim-Venture_Location_Reset-0.9.0 -> 0.10.0
+
+---
