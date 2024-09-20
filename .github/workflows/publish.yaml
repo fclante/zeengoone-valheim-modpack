@@ -4,16 +4,15 @@ name: Publish Mod
 on:
   release:
     types: [published]
-   
 
   workflow_dispatch:
 
 jobs:
   main:
     name: Publish Mod
-    uses: undorn/actions-workflows/.github/workflows/publish-modpack.yaml@main
+    uses: fclante/actions-workflows/.github/workflows/publish-modpack.yaml@main
     with:
-      team: Undorn
+      team: CodeRed
       community: valheim
     secrets: inherit
 
@@ -28,10 +27,10 @@ jobs:
         uses: tsickert/discord-webhook@v6.0.0
         with:
           embed-title: "Modpack Update"
-          embed-url: https://thunderstore.io/c/valheim/p/Undorn/Undorn_Official_Modpack/
+          embed-url: https://thunderstore.io/c/valheim/p/CodeRed/ZeenGoone_QOL_Modpack/
           embed-description: "A new version of the modpack has been released!"
-          embed-thumbnail-url: https://gcdn.thunderstore.io/live/repository/icons/Undorn-Undorn_Official_Modpack-1.0.7.png.128x128_q95.png
+          embed-thumbnail-url: https://gcdn.thunderstore.io/live/repository/icons/ZeenGoone_QOL_Modpack-1.0.0.png.128x128_q95.png
           embed-author-name: "CodeRed"
           embed-author-url: https://github.com/fclante
           embed-author-icon-url: https://avatars.githubusercontent.com/u/4668071?v=4
-          webhook-url: ${{ secrets.DISCORD_MODPACK_UPDATES_WEBHOOK_URL }}
+          webhook-url: ${{ secrets.ZEENGOONE_DISCORD_MODPACK_UPDATES_WEBHOOK_URL }}
