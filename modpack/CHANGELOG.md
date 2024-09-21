@@ -39,6 +39,12 @@ All notable changes to this project will be documented in this file.
 
 - VentureValheim-Venture_Location_Reset-0.9.0 -> 0.10.0
 
+## [1.0.2] - 2024-09-20
+
+## UPDATE
+
+- Update Fastlink config
+
 ## [1.0.3] - 2024-09-21
 
 ## ADD
