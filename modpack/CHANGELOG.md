@@ -39,4 +39,10 @@ All notable changes to this project will be documented in this file.
 
 - VentureValheim-Venture_Location_Reset-0.9.0 -> 0.10.0
 
+## [1.0.3] - 2024-09-21
+
+## ADD
+
+- Mydayyy-ServerSideMap-1.3.11"
+
 ---
