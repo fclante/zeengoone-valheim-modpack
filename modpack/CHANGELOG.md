@@ -68,4 +68,17 @@ All notable changes to this project will be documented in this file.
 ## ADD
 
 -  	Ivan0xFF-CropReplant-2.1.1
+
+## [1.0.6] - 2024-09-22
+
+## ADD
+
+- Advize-PlantEasily-1.8.1
+
+## REMOVE
+
+- ArmchairSavages-CropReplant-1.0.2
+- SarcenNexusMods-FarmGrid-0.5.0
+
+
 ---
