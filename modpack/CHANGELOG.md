@@ -51,4 +51,11 @@ All notable changes to this project will be documented in this file.
 
 - Mydayyy-ServerSideMap-1.3.11"
 
+## [1.0.4] - 2024-09-22
+
+## ADD
+
+- ArmchairSavages-CropReplant-1.0.2
+- SarcenNexusMods-FarmGrid-0.5.0
+
 ---
