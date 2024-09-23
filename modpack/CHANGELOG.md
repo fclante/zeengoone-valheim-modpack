@@ -80,5 +80,14 @@ All notable changes to this project will be documented in this file.
 - ArmchairSavages-CropReplant-1.0.2
 - SarcenNexusMods-FarmGrid-0.5.0
 
+## [1.0.7] - 2024-09-23
+
+## ADD
+
+- nbusseneau-Better_Cartography_Table-0.5.12
+
+## REMOVE
+
+- coemt-ProtectYourSeed-0.0.6
 
 ---
