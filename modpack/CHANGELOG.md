@@ -2,6 +2,71 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.8] - 2024-10-16
+
+### UPDATE
+
+- Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.9
+- MSchmoecker-MultiUserChest-0.6.0
+
+## [1.0.7] - 2024-09-23
+
+### ADD
+
+- nbusseneau-Better_Cartography_Table-0.5.12
+
+### REMOVE
+
+- coemt-ProtectYourSeed-0.0.6
+
+---
+
+## [1.0.6] - 2024-09-22
+
+### ADD
+
+- Advize-PlantEasily-1.8.1
+
+### REMOVE
+
+- ArmchairSavages-CropReplant-1.0.2
+- SarcenNexusMods-FarmGrid-0.5.0
+
+## [1.0.5] - 2024-09-22
+
+### REMOVE
+
+- ArmchairSavages-CropReplant-1.0.2
+
+### ADD
+
+- Ivan0xFF-CropReplant-2.1.1
+
+## [1.0.4] - 2024-09-22
+
+### ADD
+
+- ArmchairSavages-CropReplant-1.0.2
+- SarcenNexusMods-FarmGrid-0.5.0
+
+## [1.0.3] - 2024-09-21
+
+### ADD
+
+- Mydayyy-ServerSideMap-1.3.11
+
+## [1.0.2] - 2024-09-20
+
+### UPDATE
+
+- Update Fastlink config
+
+## [1.0.1] - 2024-09-20
+
+### UPDATE
+
+- VentureValheim-Venture_Location_Reset-0.9.0 -> 0.10.0
+
 ## [1.0.0] - 2024-09-20
 
 ### Added Initial Release
@@ -31,63 +96,4 @@ All notable changes to this project will be documented in this file.
 - MSchmoecker-MultiUserChest-0.5.10
 - Pineapple-MoreGates-1.0.11
 - VentureValheim-Venture_Location_Reset-0.9.0
----
-
-## [1.0.1] - 2024-09-20
-
-## UPDATE
-
-- VentureValheim-Venture_Location_Reset-0.9.0 -> 0.10.0
-
-## [1.0.2] - 2024-09-20
-
-## UPDATE
-
-- Update Fastlink config
-
-## [1.0.3] - 2024-09-21
-
-## ADD
-
-- Mydayyy-ServerSideMap-1.3.11"
-
-## [1.0.4] - 2024-09-22
-
-## ADD
-
-- ArmchairSavages-CropReplant-1.0.2
-- SarcenNexusMods-FarmGrid-0.5.0
-
-
-## [1.0.5] - 2024-09-22
-
-## REMOVE
-
-- ArmchairSavages-CropReplant-1.0.2
- 
-## ADD
-
--  	Ivan0xFF-CropReplant-2.1.1
-
-## [1.0.6] - 2024-09-22
-
-## ADD
-
-- Advize-PlantEasily-1.8.1
-
-## REMOVE
-
-- ArmchairSavages-CropReplant-1.0.2
-- SarcenNexusMods-FarmGrid-0.5.0
-
-## [1.0.7] - 2024-09-23
-
-## ADD
-
-- nbusseneau-Better_Cartography_Table-0.5.12
-
-## REMOVE
-
-- coemt-ProtectYourSeed-0.0.6
-
 ---
