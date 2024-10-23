@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.9] - 2024-10-23
+
+### ADD
+
+- GsiX-MultiCraft-2.0.4
+
+### UPDATE
+
+- ValheimModding-Jotunn-2.21.1
+
+---
+
 ## [1.0.8] - 2024-10-16
 
 ### UPDATE
