@@ -2,6 +2,27 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.10] - 2025-02-25
+
+### UPDATE
+
+- Azumatt-AzuExtendedPlayerInventory-1.4.6
+- Azumatt-AzuCraftyBoxes-1.6.1
+- Azumatt-AzuClock-1.0.4
+- Azumatt-Build_Camera_Custom_Hammers_Edition-1.2.6
+- ComfyMods-Gizmo-1.14.0
+- ComfyMods-Chatter-2.10.0
+- blacks7ar-FineWoodFurnitures-1.0.9
+- blacks7ar-FineWoodBuildPieces-1.1.6
+- blacks7ar-ClayBuildPieces-1.2.3
+- Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.11
+- ValheimModding-Jotunn-2.23.2
+- Advize-PlantEverything-1.18.2
+- MSchmoecker-MultiUserChest-0.6.1
+- VentureValheim-Venture_Location_Reset-0.10.5
+- Mydayyy-ServerSideMap-1.3.12
+- Advize-PlantEasily-2.0.2
+- nbusseneau-Better_Cartography_Table-0.6.0
 ## [1.0.9] - 2024-10-23
 
 ### ADD
