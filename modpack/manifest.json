@@ -5,7 +5,7 @@
   "description": "Official modpack for the ZeenGoone Valheim Server",
   "dependencies": [
     "denikson-BepInExPack_Valheim-5.4.2202",
-    "Azumatt-FastLink-1.4.3",
+    "Azumatt-FastLink-1.4.8",
     "Azumatt-AzuExtendedPlayerInventory-1.4.9",
     "Azumatt-AzuCraftyBoxes-1.8.4",
     "Azumatt-AzuClock-1.0.5",
