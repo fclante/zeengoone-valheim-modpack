@@ -2,7 +2,19 @@
 
 All notable changes to this project will be documented in this file.
 
-## [1.0.12] - 2025-03-04 
+## [1.0.13] - 2025-10-08
+
+### UPDATE
+
+- Update a lot of mods
+
+### REMOVE
+
+- floating-items because it was deprecated
+
+---
+
+## [1.0.12] - 2025-03-04
 
 ### UPDATE
 
