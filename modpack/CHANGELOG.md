@@ -14,6 +14,15 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [1.1.0] - 2025-11-11
+
+### UPDATE
+
+- Nextek-SpeedyPaths-1.0.9
+- Azumatt-Build_Camera_Custom_Hammers_Edition-1.2.8
+
+---
+
 ## [1.0.12] - 2025-03-04
 
 ### UPDATE
