@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file.
 
+
+## [1.3.0] - 2025-11-11
+
+### UPDATE
+
+- Nextek-SpeedyPaths-1.0.9
+- Azumatt-Build_Camera_Custom_Hammers_Edition-1.2.8
+
+---
 ## [1.0.13] - 2025-10-08
 
 ### UPDATE
@@ -11,15 +20,6 @@ All notable changes to this project will be documented in this file.
 ### REMOVE
 
 - floating-items because it was deprecated
-
----
-
-## [1.1.0] - 2025-11-11
-
-### UPDATE
-
-- Nextek-SpeedyPaths-1.0.9
-- Azumatt-Build_Camera_Custom_Hammers_Edition-1.2.8
 
 ---
 
