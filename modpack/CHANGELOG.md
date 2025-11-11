@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.5.0] - 2025-11-11
+
+### REMOVE
+
+- multiuserchest due to issues with latest bepinex
+---
 
 ## [1.4.0] - 2025-11-11
 
