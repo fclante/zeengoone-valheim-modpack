@@ -4,7 +4,7 @@
   "website_url": "https://tunderstore.io/c/valheim/?q=CodeRed",
   "description": "Official modpack for the ZeenGoone Valheim Server",
   "dependencies": [
-    "denikson-BepInExPack_Valheim-5.4.2202",
+    "denikson-BepInExPack_Valheim-5.4.2333",
     "Azumatt-FastLink-1.4.8",
     "Azumatt-AzuExtendedPlayerInventory-1.4.12",
     "Azumatt-AzuCraftyBoxes-1.8.5",

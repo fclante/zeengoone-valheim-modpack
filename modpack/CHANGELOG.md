@@ -3,12 +3,13 @@
 All notable changes to this project will be documented in this file.
 
 
-## [1.3.0] - 2025-11-11
+## [1.4.0] - 2025-11-11
 
 ### UPDATE
 
 - Nextek-SpeedyPaths-1.0.9
 - Azumatt-Build_Camera_Custom_Hammers_Edition-1.2.8
+- denikson-BepInExPack_Valheim-5.4.2333
 
 ---
 ## [1.0.13] - 2025-10-08
