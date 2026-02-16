@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.6.0] - 2026-02-16
+
+### UPDATE
+
+- Azumatt-AzuCraftyBoxes-1.8.13
+- ValheimModding-Jotunn-2.27.1
+- Azumatt-Build_Camera_Custom_Hammers_Edition-1.2.10
+- Azumatt-AzuExtendedPlayerInventory-2.3.4
+- VentureValheim-Venture_Location_Reset-0.10.7
+- Smoothbrain-Groups-1.2.10
+
 ## [1.5.0] - 2025-11-11
 
 ### REMOVE
