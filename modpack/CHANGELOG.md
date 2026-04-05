@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.7.0] - 2026-04-05
+
+### UPDATE
+
+- ValheimModding-Jotunn-2.28.0
+- Azumatt-AzuExtendedPlayerInventory-2.4.1
+- Azumatt-AzuCraftyBoxes-1.8.14
+- Advize-PlantEasily-2.1.1
+
 ## [1.6.0] - 2026-02-16
 
 ### UPDATE
