@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.8.0] - 2026-04-13
+
+### REMOVE
+- Mydayyy-ServerSideMap-1.3.13
+
+### ADD
+- Azumatt-MistBeGone-1.0.7
+
+### UPDATE
+- VentureValheim-Venture_Location_Reset-0.10.8
+-	ValheimModding-Jotunn-2.29.0
+
 ## [1.7.0] - 2026-04-05
 
 ### UPDATE
