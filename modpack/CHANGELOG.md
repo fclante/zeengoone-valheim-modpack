@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file.
 
+
+## [1.9.0] - 2026-08-22
+
+### UPDATE
+
+- Azumatt-AzuExtendedPlayerInventory-2.4.4
+- Azumatt-AzuCraftyBoxes-1.8.15
+- ValheimModding-Jotunn-2.29.2
+- VentureValheim-Venture_Location_Reset-0.10.8
+- Advize-PlantEasily-2.1.1
+
+---
 ## [1.8.0] - 2026-04-13
 
 ### REMOVE
