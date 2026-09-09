@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 
 
+## [1.10.0] - 2026-09-09
+
+### UPDATE
+
+- denikson-BepInExPack_Valheim-5.4.2350
+- Azumatt-AzuExtendedPlayerInventory-2.4.8
+- VentureValheim-Venture_Location_Reset-0.10.9
+
+---
 ## [1.9.0] - 2026-08-22
 
 ### UPDATE
